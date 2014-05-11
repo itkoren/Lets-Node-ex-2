@@ -11,4 +11,4 @@ Please complete the following steps:
 2. Use the require.async module to load the AFINN.json dictionary asynchronously inside your **"sentiment"** module.
 
 #####Use the AFINN.json in this repository for the score calculations
-#####*You can also use the boilerplate index.js as a staring point for your server code*
+#####*You can also use the boilerplate index.js as a starting point for your server code*
