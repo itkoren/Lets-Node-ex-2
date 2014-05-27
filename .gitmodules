@@ -1,6 +1,6 @@
 [submodule "examples/modules"]
 	path = examples/modules
-	url = git@github.com:itkoren/Lets-Node-exp-modules.git
+	url = https://github.com/itkoren/Lets-Node-exp-modules.git
 [submodule "examples/modules-scope"]
 	path = examples/modules-scope
-	url = git@github.com:itkoren/Lets-Node-exp-modules-scope.git
+	url = https://github.com/itkoren/Lets-Node-exp-modules-scope.git
